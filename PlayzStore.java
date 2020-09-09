@@ -16,14 +16,14 @@ class PlayzStore
 
         System.out.println("Welcome to " + STORE_NAME);
         customerOne.purchase(gameOne);*/
-        
+           
         setupDiscounts();
         setupCustomers();
         setupGames();
         openStore();
-        // 
-    }//
-
+       //
+    }
+    
     private void setupDiscounts()
     {
         for(int i = 0; i <discounts.length; i++)
@@ -151,5 +151,5 @@ class PlayzStore
         
         return foundGame;
     }
-    
+    // 
 }
