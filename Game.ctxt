@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=thePrice\ theIsAv\ theTitle
+comment1.target=Game(double,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=thePrice
+comment3.target=void\ setPrice(double)
+comment4.params=
+comment4.target=boolean\ getIsAv()
+comment5.params=theIsAv
+comment5.target=void\ setIsAv(boolean)
+comment6.params=
+comment6.target=java.lang.String\ getTitle()
+comment7.params=theTitle
+comment7.target=void\ setTitle(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

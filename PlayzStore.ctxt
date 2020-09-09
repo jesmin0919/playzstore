@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PlayzStore
+comment1.params=
+comment1.target=PlayzStore()
+comment2.params=
+comment2.target=void\ setupDiscounts()
+comment3.params=
+comment3.target=void\ setupCustomers()
+comment4.params=
+comment4.target=void\ setupGames()
+comment5.params=
+comment5.target=int\ getGameNumber()
+comment6.params=
+comment6.target=void\ openStore()
+comment7.params=name
+comment7.target=Customer\ findCustomer(java.lang.String)
+comment8.params=name
+comment8.target=Game\ findGame(java.lang.String)
+numComments=9
